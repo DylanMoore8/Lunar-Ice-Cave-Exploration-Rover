@@ -1,3 +1,3 @@
-# Lunar-Ice-Cave-Explorer-Rover
+# Lunar-Ice-Cave-Exploration-Rover
 
-See pdf for more information on the LICER project
+See pdf for more information on the project!
